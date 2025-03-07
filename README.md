@@ -90,9 +90,8 @@ git clone https://github.com/yourusername/netflix-sql-analysis.git
 ## 📞 Contact
 For any questions or collaboration opportunities, feel free to reach out!
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: your-email@example.com
+- **LinkedIn**: [yourprofile](https://www.linkedin.com/in/maha-pragalathan-831633266/?trk=opento_sprofile_details)
+- **Email**: pmaga205@gmail.com
 
 ---
 

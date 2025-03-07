@@ -94,7 +94,8 @@ SELECT UNNEST(STRING_TO_ARRAY(casts, ', ')) as actor,
 FROM netflix
 WHERE country LIKE '%India%'
 GROUP BY 1
-ORDER BY count(show_id) DESC --15.Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
+ORDER BY count(show_id) DESC;
+--15.Categorize the content based on the presence of the keywords 'kill' and 'violence' in 
   --the description field. Label content containing these keywords as 'Bad' and all other 
   --content as 'Good'. Count how many items fall into each category.
 SELECT CASE
